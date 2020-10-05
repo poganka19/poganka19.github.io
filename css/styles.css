@@ -1,0 +1,37 @@
+.navigation li {display: inline-block;
+margin: 0 30px;
+font-family: medium-content-title-font, Georgia, Cambria, "Times New Roman", Times, serif;}
+.navigation {text-align: center;}
+.navigation li a {text-decoration: none;}
+nav {position: fixed;
+z-index: 1;
+left: 0;
+right: 0;
+font-size: 20px;
+margin-top: 0px;
+margin-bottom: 0px;}
+.works a {text-decoration: none; color: #99154d;}
+header {background: #e6b207;}
+header {margin-left: 15px;}
+header {margin-right: 15px;}
+header {padding-left: 22px;}
+header {padding-right: 150px;}
+body {text-rendering: optimizeLegibility;}
+img {max-width:100%}
+h1 {margin-top: 50px;}
+h1 {margin-bottom: 16px;}
+h1 {text-align: center;}
+h1, h2, h3, h4 {    font-family: medium-content-title-font, Georgia, Cambria, "Times New Roman", Times, serif;}
+h1, h2, h3, h4 {font-size: 40px;}
+h1, h2, h3, h4 {font-weight: 400;}
+h2, h3, h4 {margin-left: 20px;}
+p {font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif;}
+p {font-size: 21px;}
+p {line-height: 32px;}
+p {box-sizing: inherit;}
+p {font-weight: 400;}
+p {height: 384px;}
+p {width: 684px;}
+.intro-paragraph {margin-top: 111px;}
+.social-icon {height: 90px;}
+.social-icons-container {text-align: center; margin: 10px 20px;}
